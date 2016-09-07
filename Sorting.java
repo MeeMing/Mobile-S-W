@@ -1,7 +1,7 @@
-package Sorting;
+package Searching;
 
 public class Sorting {
-	
+
 	public void SortingArr(int[] arr){
 		while(true){
 			int count=0;
@@ -30,4 +30,3 @@ public class Sorting {
 	}//end func
 	
 }
-

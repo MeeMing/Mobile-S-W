@@ -1,4 +1,4 @@
-package Sorting;
+package Searching;
 
 import java.util.Random;
 
@@ -45,3 +45,5 @@ public class Make_Arr {
 	}//end func
 	
 }//end class
+
+
